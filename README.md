@@ -8,9 +8,19 @@ v20.13.1
 
 ```npm install -g win-node-env```
 
+### Quick Overview
+Note: create-react-app is now deprecated.
+
+You can use this repository to quickly start a React project with the recommended tools and configurations (UI, router, styling).
+
+This setup includes essential dependencies and structure to help you get started right away.
+
+### Run
+```npm run dev```
+
 ### Material UI
 
-##### If install failed due to React 18 version compatibility issue, run following commands
+##### If the installation fails due to a React 18 version compatibility issue, try running the following commands:
 
 ```
 npm install @mui/material @emotion/react @emotion/styled --legacy-peer-deps
