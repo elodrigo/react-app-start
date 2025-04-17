@@ -4,7 +4,7 @@ v20.13.1
 
 ### Build
 
-##### If failed with NODE_ENV error, install win-node-env
+##### If you encounter a NODE_ENV error, install win-node-env to resolve it.
 
 ```npm install -g win-node-env```
 
@@ -16,7 +16,7 @@ You can use this repository to quickly start a React project with the recommende
 This setup includes essential dependencies and structure to help you get started right away.
 
 ### Run
-```npm run dev```
+```npm run start```
 
 ### Material UI
 
